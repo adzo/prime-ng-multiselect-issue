@@ -1,0 +1,15 @@
+:host {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2rem;
+  height: 100vh;
+  padding: 2rem 20rem;
+}
+
+.rtl-toggle {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
